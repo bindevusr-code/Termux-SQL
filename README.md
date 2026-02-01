@@ -1,11 +1,14 @@
 # Termux-SQL
 Non root SQL Termux-SQL ux-SQL
-        ___
-       __H__
- ___ ___[']_____ ___ ___  {1.10.1.85#dev}
-|_ -| . [)]     | .'| . |
-|___|_  [)]_|_|_|__,|  _|
-      |_|V...       |_|   https://sqlmap.org
+                  ___
+                 __H__
+           ___ ___[']_____ ___ ___{wkt}
+          |_ -| . [)]     | .'| . |
+          |___|_  [)]_|_|_|__,|  _|
+                |_|V...       |_|   
+
+
+https://sqlmap.org
 
 Usage: python sqlmap.py [options]
 
